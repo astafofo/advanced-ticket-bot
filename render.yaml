@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: advanced-ticket-bot
+    env: python
+    buildCommand: |
+      pip install -r requirements.txt
+    startCommand: python main.py
+    envVars:
+      - key: TOKEN
+        required: true
+      - key: PREFIX
+        value: "!"
+      - key: DATABASE_URL
+        fromDatabase:
+          name: ticketbot-db
+          property: connectionString
+    plan: free
+    region: oregon
+    instanceSize: free
+    autoDeploy: true
+
+databases:
+  - name: ticketbot-db
+    databaseName: ticketbot
+    user: ticketbot_user
+    plan: free
