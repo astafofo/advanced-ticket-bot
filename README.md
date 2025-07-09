@@ -40,7 +40,7 @@ TOKEN=your_bot_token_here
 
 # Optional - Bot configuration
 PREFIX=!
-BOT_STATUS=!help | /help | Harly Xploitz
+BOT_STATUS=!help | /help 
 BOT_STATUS_TYPE=STREAMING
 
 # Optional - Support server link
