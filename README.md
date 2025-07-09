@@ -1,5 +1,5 @@
 
-# CodeX Tickets - Discord Support Bot
+# Discord Ticket Bot
 
 A comprehensive Discord bot for managing support tickets with advanced features like categorization, rating system, and automated responses.
 
@@ -57,7 +57,7 @@ SUPPORT_SERVER=https://discord.gg/GQfuF4Bx8r
 #### Optional Variables
 
 - **`PREFIX`** - Command prefix for legacy commands (default: `!`)
-- **`BOT_STATUS`** - Status message displayed by the bot (default: `!help | /help | Harly Xploitz`)
+- **`BOT_STATUS`** - Status message displayed by the bot (default: `!help | /help `)
 - **`BOT_STATUS_TYPE`** - Type of status activity:
   - `STREAMING` - Shows as streaming (default)
   - `PLAYING` - Shows as playing a game
