@@ -139,7 +139,7 @@ The bot uses SQLite for data storage. The database file (`bot.db` by default) co
 ### 8. Support & Development
 
 - **Support Server**: [Discord](https://discord.gg/E5fywzRPy3)
-- **Developer**: [Harly]()
+- **Developer**: [Harly](https://discord.com/users/927023306769588264)
 - **Issues**: Create tickets in our support server for bug reports and feature requests
 - **Documentation**: Full documentation available in our support server
 - **Community**: Join our Discord for updates, tips, and community discussions
