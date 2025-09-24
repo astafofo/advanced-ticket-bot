@@ -138,8 +138,8 @@ The bot uses SQLite for data storage. The database file (`bot.db` by default) co
 
 ### 8. Support & Development
 
-- **Support Server**: [Harly Xploitz Discord](https://discord.gg/GQfuF4Bx8r)
-- **Developer**: [Harly Xploitz Team](https://discord.gg/GQfuF4Bx8r)
+- **Support Server**: [Discord](https://discord.gg/E5fywzRPy3)
+- **Developer**: [Harly]()
 - **Issues**: Create tickets in our support server for bug reports and feature requests
 - **Documentation**: Full documentation available in our support server
 - **Community**: Join our Discord for updates, tips, and community discussions
@@ -158,25 +158,5 @@ The bot includes automatic reconnection handling and will restart if it encounte
 
 ---
 
-## 🏆 Credits & Attribution
-
-**CodeX Tickets** is proudly developed and maintained by **[Harly Xploitz Team](https://discord.gg/GQfuF4Bx8r)**
-
-### 🌟 Harly Xploitz
-- **Discord Server**: [https://discord.gg/GQfuF4Bx8r](https://discord.gg/GQfuF4Bx8r)
-- **Specialization**: Premium Discord bots and development services
-- **Support**: 24/7 community support and assistance
-- **Services**: Custom bot development, server setup, and consultation
-
-### 💼 Professional Services
-Visit our Discord server for:
-- Custom bot development
-- Server setup and configuration
-- Premium support plans
-- Community resources and tutorials
-
----
-
-**Built with ❤️ by [Harly Xploitz Team](https://discord.gg/GQfuF4Bx8r)**
 
 *Join our community for premium Discord solutions and expert support!*
